@@ -117,7 +117,7 @@ cmd(_0x301d5e, async (_0x2a9fdd, _0x151d2c, _0x4ff243, {
     }
     _0x4ff243.react('⬇️');
     let _0x56d9e1 = await downloadTiktok(_0x2b6410);
-    let _0x368ee4 = "\n     🎟️ *QUEEN ANJU-MD TIKTOK DOWNLOADER* 🎟️\n\n🔢 *Please reply with the number you want to select:*\n\nTitle * " + _0x56d9e1.result.title + "\n\n*!.* Tiktok Video\n\n   1 | 📼 SD QUALITY\n   2 | 🎟️ HD QUALITY\n\n*!.* Tiktok Audio\n\n   3 | 🎶 Audio file\n   \n*URL:* " + _0x2b6410 + "\n     \n     ";
+    let _0x368ee4 = "\n     🎟️ *DARK HACKER MD TIKTOK DOWNLOADER* 🎟️\n\n🔢 *Please reply with the number you want to select:*\n\nTitle * " + _0x56d9e1.result.title + "\n\n*!.* Tiktok Video\n\n   1 | 📼 SD QUALITY\n   2 | 🎟️ HD QUALITY\n\n*!.* Tiktok Audio\n\n   3 | 🎶 Audio file\n   \n*URL:* " + _0x2b6410 + "\n     \n     ";
     const _0x5dfb9c = {
       url: _0x56d9e1.result.image
     };
@@ -130,10 +130,10 @@ cmd(_0x301d5e, async (_0x2a9fdd, _0x151d2c, _0x4ff243, {
       externalAdReply: {}
     };
     _0x219bd1.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-    _0x219bd1.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x219bd1.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x219bd1.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-    _0x219bd1.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-    _0x219bd1.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x219bd1.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+    _0x219bd1.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x219bd1.externalAdReply.mediaType = 0x1;
     _0x219bd1.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
     _0x219bd1.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -188,10 +188,10 @@ cmd(_0x301d5e, async (_0x2a9fdd, _0x151d2c, _0x4ff243, {
           _0x1f4b49.contextInfo.forwardedNewsletterMessageInfo = {};
           _0x1f4b49.contextInfo.externalAdReply = {};
           _0x1f4b49.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-          _0x1f4b49.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x1f4b49.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x1f4b49.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-          _0x1f4b49.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-          _0x1f4b49.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x1f4b49.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+          _0x1f4b49.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x1f4b49.contextInfo.externalAdReply.mediaType = 0x1;
           _0x1f4b49.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
           _0x1f4b49.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -215,10 +215,10 @@ cmd(_0x301d5e, async (_0x2a9fdd, _0x151d2c, _0x4ff243, {
             _0xa00309.contextInfo.forwardedNewsletterMessageInfo = {};
             _0xa00309.contextInfo.externalAdReply = {};
             _0xa00309.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-            _0xa00309.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0xa00309.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0xa00309.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-            _0xa00309.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-            _0xa00309.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0xa00309.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+            _0xa00309.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0xa00309.contextInfo.externalAdReply.mediaType = 0x1;
             _0xa00309.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
             _0xa00309.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -307,7 +307,7 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
     };
     await _0x277dac.sendMessage(_0x4885c2, _0x252865);
     const _0x1c30fb = await getFBInfo(_0x47252d);
-    const _0x1c8330 = "\n💢 QUEEN ANJU-MD FB DOWNLOADER 💢\n\n🎞 TITLE 🎞 " + _0x1c30fb.title + "\n\n🔢 Please reply the number you want to select\n\n[1] facebook Video\n1.1 | 🪫 SD QUALITY\n1.2 | 🔋 HD QUALITY\n\n[2] facebook Audio\n2.1 | 🎶 Audio file\n2.2 | 📂 Document file\n2.3 | 🎤 Voice cut [ptt]\n\n\nFb-Url: -=-" + _0x47252d + " \n";
+    const _0x1c8330 = "\n💢 DARK HACKER-MD FB DOWNLOADER 💢\n\n🎞 TITLE 🎞 " + _0x1c30fb.title + "\n\n🔢 Please reply the number you want to select\n\n[1] facebook Video\n1.1 | 🪫 SD QUALITY\n1.2 | 🔋 HD QUALITY\n\n[2] facebook Audio\n2.1 | 🎶 Audio file\n2.2 | 📂 Document file\n2.3 | 🎤 Voice cut [ptt]\n\n\nFb-Url: -=-" + _0x47252d + " \n";
     const _0x224b3c = {
       url: _0x1c30fb.thumbnail
     };
@@ -320,10 +320,10 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
       externalAdReply: {}
     };
     _0x334f06.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-    _0x334f06.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x334f06.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x334f06.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-    _0x334f06.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-    _0x334f06.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x334f06.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+    _0x334f06.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x334f06.externalAdReply.mediaType = 0x1;
     _0x334f06.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
     _0x334f06.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -367,7 +367,7 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
           };
           const _0x46c5a4 = {
             video: _0x5e47e0,
-            caption: "QUEEN ANJU MD WHATSAPP BOT",
+            caption: "DARK HACKER MD WHATSAPP BOT",
             contextInfo: {}
           };
           _0x46c5a4.contextInfo.mentionedJid = ["94717775628@s.whatsapp.net"];
@@ -377,10 +377,10 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
           _0x46c5a4.contextInfo.forwardedNewsletterMessageInfo = {};
           _0x46c5a4.contextInfo.externalAdReply = {};
           _0x46c5a4.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-          _0x46c5a4.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x46c5a4.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x46c5a4.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-          _0x46c5a4.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-          _0x46c5a4.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x46c5a4.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+          _0x46c5a4.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x46c5a4.contextInfo.externalAdReply.mediaType = 0x1;
           _0x46c5a4.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
           _0x46c5a4.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -404,10 +404,10 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
             _0x3ff61b.contextInfo.forwardedNewsletterMessageInfo = {};
             _0x3ff61b.contextInfo.externalAdReply = {};
             _0x3ff61b.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-            _0x3ff61b.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0x3ff61b.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0x3ff61b.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-            _0x3ff61b.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-            _0x3ff61b.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0x3ff61b.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+            _0x3ff61b.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0x3ff61b.contextInfo.externalAdReply.mediaType = 0x1;
             _0x3ff61b.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
             _0x3ff61b.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -436,7 +436,7 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
                   document: _0x545939,
                   mimetype: "audio/mpeg",
                   fileName: "ANJU-MD/FBDL.mp3",
-                  caption: "*© QUEEN ANJU WHATSAPP BOT MD*",
+                  caption: "*© DARK HACKER WHATSAPP BOT MD*",
                   contextInfo: {}
                 };
                 _0x4c4300.contextInfo.mentionedJid = ["94717775628@s.whatsapp.net"];
@@ -446,10 +446,10 @@ cmd(_0x3fa4b1, async (_0x277dac, _0x483fd3, _0x3f698f, {
                 _0x4c4300.contextInfo.forwardedNewsletterMessageInfo = {};
                 _0x4c4300.contextInfo.externalAdReply = {};
                 _0x4c4300.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-                _0x4c4300.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+                _0x4c4300.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
                 _0x4c4300.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-                _0x4c4300.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-                _0x4c4300.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+                _0x4c4300.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+                _0x4c4300.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
                 _0x4c4300.contextInfo.externalAdReply.mediaType = 0x1;
                 _0x4c4300.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
                 _0x4c4300.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -554,7 +554,7 @@ cmd(_0x1a5915, async (_0x15a80a, _0xa080, _0x2ced47, {
       video_sd: _0x5561e9,
       video_hd: _0x3d9d5f
     } = _0x2f4f1b.result;
-    const _0x2a0402 = "\n💢 QUEEN ANJU-MD TWITTER DOWNLOADER 💢\n\n📝 Description: " + (_0x4272bf || "No description") + "\n\n🔢 Please reply with the number for your selection:\n\n[1] Twitter Video\n  1.1 | 🪫 SD QUALITY\n  1.2 | 🔋 HD QUALITY\n\n[2] Twitter Audio\n  2.1 | 🎶 Audio file\n  2.2 | 📂 Document file\n  2.3 | 🎤 Voice (ptt)\n\nTwitter URL: " + _0x2e9308 + "\n";
+    const _0x2a0402 = "\n💢 DARK HACKER MD TWITTER DOWNLOADER 💢\n\n📝 Description: " + (_0x4272bf || "No description") + "\n\n🔢 Please reply with the number for your selection:\n\n[1] Twitter Video\n  1.1 | 🪫 SD QUALITY\n  1.2 | 🔋 HD QUALITY\n\n[2] Twitter Audio\n  2.1 | 🎶 Audio file\n  2.2 | 📂 Document file\n  2.3 | 🎤 Voice (ptt)\n\nTwitter URL: " + _0x2e9308 + "\n";
     const _0x3bcc29 = {
       url: _0x392d63
     };
@@ -567,10 +567,10 @@ cmd(_0x1a5915, async (_0x15a80a, _0xa080, _0x2ced47, {
       externalAdReply: {}
     };
     _0x56c9df.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-    _0x56c9df.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x56c9df.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x56c9df.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-    _0x56c9df.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-    _0x56c9df.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+    _0x56c9df.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+    _0x56c9df.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
     _0x56c9df.externalAdReply.mediaType = 0x1;
     _0x56c9df.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
     _0x56c9df.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -606,7 +606,7 @@ cmd(_0x1a5915, async (_0x15a80a, _0xa080, _0x2ced47, {
           };
           const _0x1464ca = {
             video: _0x21421e,
-            caption: "QUEEN ANJU MD",
+            caption: "DARK HACKER MD",
             contextInfo: {}
           };
           _0x1464ca.contextInfo.mentionedJid = ["94717775628@s.whatsapp.net"];
@@ -616,10 +616,10 @@ cmd(_0x1a5915, async (_0x15a80a, _0xa080, _0x2ced47, {
           _0x1464ca.contextInfo.forwardedNewsletterMessageInfo = {};
           _0x1464ca.contextInfo.externalAdReply = {};
           _0x1464ca.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-          _0x1464ca.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x1464ca.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x1464ca.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-          _0x1464ca.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-          _0x1464ca.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+          _0x1464ca.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+          _0x1464ca.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
           _0x1464ca.contextInfo.externalAdReply.mediaType = 0x1;
           _0x1464ca.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
           _0x1464ca.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
@@ -643,10 +643,10 @@ cmd(_0x1a5915, async (_0x15a80a, _0xa080, _0x2ced47, {
             _0x1928e7.contextInfo.forwardedNewsletterMessageInfo = {};
             _0x1928e7.contextInfo.externalAdReply = {};
             _0x1928e7.contextInfo.forwardedNewsletterMessageInfo.newsletterJid = "120363299978149557@newsletter";
-            _0x1928e7.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0x1928e7.contextInfo.forwardedNewsletterMessageInfo.newsletterName = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0x1928e7.contextInfo.forwardedNewsletterMessageInfo.serverMessageId = 0x3e7;
-            _0x1928e7.contextInfo.externalAdReply.title = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
-            _0x1928e7.contextInfo.externalAdReply.body = "𝐐𝐔𝐄𝐄𝐍 𝐀𝐍𝐉𝐔 𝐌𝐃";
+            _0x1928e7.contextInfo.externalAdReply.title = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
+            _0x1928e7.contextInfo.externalAdReply.body = "𝐃𝐀𝐑𝐊 𝐇𝐀𝐂𝐊𝐄𝐑 𝐌𝐃";
             _0x1928e7.contextInfo.externalAdReply.mediaType = 0x1;
             _0x1928e7.contextInfo.externalAdReply.sourceUrl = "https://github.com/Mrrashmika";
             _0x1928e7.contextInfo.externalAdReply.thumbnailUrl = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg";
